@@ -1,2 +1,2 @@
-# AndSt-Java-Room-SQLite-MovieColecction
+# AndSt-Java-RoomDB-MovieColecction
 Application for favorite movies and TV series.
